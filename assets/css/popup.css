@@ -1,0 +1,10 @@
+
+.trash-btn {
+    background-color: transparent;
+    border: none;
+}
+
+.trash-btn img {
+    width: 15px;
+    height: 15px;
+}
